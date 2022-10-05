@@ -1,7 +1,7 @@
 # emotion diary
 이 프로젝트는 '한입 크기로 잘라 먹는 리액트' 강의를 듣고 클론하였습니다. <br />
 
-<a href="https://nyoung03.github.io/nomflix-react/">보러가기</a>
+<a href="https://nyoung03-emotion-diary.web.app/">보러가기</a>
 
 ### 스텍
 - react
@@ -46,8 +46,10 @@
 
 <hr />
 
-### 1. 회원가입, 로그인
+### 1. Home (메인화면)
 
-### 2. 메인화면
+### 2. Diary
 
-### 3. 검색
+### 3. Edit
+
+### 4. New
