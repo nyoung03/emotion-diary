@@ -47,6 +47,8 @@
 <hr />
 
 ### 1. Home (메인화면)
+- 월 별 일기 리스트 보여주기
+<img src="https://user-images.githubusercontent.com/87607036/194004811-34c45766-6899-4f51-b705-1edf8600f9e1.gif" />
 
 ### 2. Diary
 
