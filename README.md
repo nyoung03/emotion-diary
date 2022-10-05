@@ -50,8 +50,16 @@
 - 월 별 일기 리스트 보여주기
 <img src="https://user-images.githubusercontent.com/87607036/194004811-34c45766-6899-4f51-b705-1edf8600f9e1.gif" />
 
-### 2. Diary
+- 카테고리별 일기 리스트 보여주기
+<img src="https://user-images.githubusercontent.com/87607036/194005074-c4d8e72e-7473-489c-9a97-d477a4f370e0.gif" /> 
 
 ### 3. Edit
+- 일기 수정하기
+<img src="https://user-images.githubusercontent.com/87607036/194005367-c0624d4d-1e23-4271-bffb-34e8d27b82d6.gif" />
+
+- 일기 삭제하기
+<img src="https://user-images.githubusercontent.com/87607036/194005529-721a12ea-6f5b-4b43-a51c-caf0b16213f7.gif" />
 
 ### 4. New
+- 새 일기 작성하기
+<img src="https://user-images.githubusercontent.com/87607036/194005245-fd7ade24-d527-4f24-bb87-bc021ef843b9.gif" />
