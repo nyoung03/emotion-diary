@@ -1,27 +1,45 @@
 # emotion diary
-이 프로젝트는 노마드 코더의 Netflix clone 강의를 보며 공부한 내용과 간단한 추가적인 기능을 넣었습니다. <br />
-추가 기능으로 React-hook-form을 연습하고자 회원가입과 로그인를 추가했습니다. <br />
-
-재사용에 대해 고민하며 효율적으로 컴포넌트 분리를 할 예정입니다. <br />
+이 프로젝트는 '한입 크기로 잘라 먹는 리액트' 강의를 듣고 클론하였습니다. <br />
 
 <a href="https://nyoung03.github.io/nomflix-react/">보러가기</a>
 
 ### 스텍
 - react
-- typescript
 - react-router-dom
-- react-query
-- react-hook-form
-- styled-components
-- framer-motion
-- gh-pages
+- firebase
 
 ### 기간
-2022.06.28 ~ 2022.07.21
+2022.09.19 ~ 2022.10.05
 
 ### 구조
 ```plaintext
-
+1. public
+   - assets
+      - emotion1.png
+      - emotion2.png
+      - emotion3.png
+      - emotion4.png
+      - emotion5.png
+2. src
+   - components
+      - DiaryEditor.js
+      - DiaryItem.js
+      - DiaryList.js
+      - EmotionItem.js
+      - MyButton.js
+      - MyHeader.js
+   - pages
+      - Diary.js
+      - Edit.js
+      - Home.js
+      - New.js
+   - util
+      date.js
+      emotionList.js
+   App.js
+   index.js
+   App.css
+   index.css
 ```
 
 ### 노션 정리
